@@ -5,4 +5,4 @@ This system contains a database of ID card nos.The system takes input of ID card
 Microcontroller- Atmel AVR series Atmega 128 
 Communication Protocol between MCU & RFID reader- USART
 
-Project video link:- https://drive.google.com/open?id=177hIKmR_zm9BI0n0juFWgDzisyM-MrYD
+Project demo: https://drive.google.com/open?id=177hIKmR_zm9BI0n0juFWgDzisyM-MrYD
